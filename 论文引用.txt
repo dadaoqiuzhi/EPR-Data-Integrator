@@ -1,0 +1,6 @@
+使用该工具发表文章应适宜性引用以下内容：
+
+0.Liu, Q., EPRDataIntegrator, 2019, https://github.com/dadaoqiuzhi/EPR-Data-Integrator, accessed date.（必须引用）
+
+1.Liu, Q.; Liu, S.; Xia, L.; Hu, P.; Lv, Y.; Liu, J.; Chen, Z.; Huang, Y.; Li, G. Effect of Annealing-Induced Microstructure on the Photo-Oxidative Degradation Behavior of Isotactic Polypropylene. Polym. Degrad. Stab. 2019, 162, 180-195.
+
